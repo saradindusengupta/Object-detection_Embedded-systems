@@ -1,0 +1,11 @@
+{
+"time_format" : "%Y-%m-%d-%H-%M-%S",
+"time_format_day" : "%Y-%m-%d",
+"data_folder" : "/home/pi/Zavrsni/data/",
+"image_folder" : "/home/pi/Zavrsni/images/",
+"detected_image_folder" : "/home/pi/Zavrsni/detected_images/",
+"sample_folder" : "/home/pi/Zavrsni/samples/",
+"reports_folder" : "/home/pi/Zavrsni/reports/",
+"save_data": false,
+"display": false
+}
